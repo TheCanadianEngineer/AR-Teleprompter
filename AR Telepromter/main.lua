@@ -229,5 +229,3 @@ function love.draw()
     end
     --love.graphics.print(love.mouse.getX()..' '..love.mouse.getY(), 1000, 400, 0, 1)
 end
-
--- Temp
